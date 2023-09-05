@@ -74,7 +74,7 @@ section {
 }
 
 .one {
-    background-image: url(pexels-buney-rock-5682872.jpg);
+    background-image: url(images/pexels-buney-rock-5682872.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
@@ -85,7 +85,7 @@ section {
 }
 
 .two {
-    background-image: url(istockphoto-517899297-612x612.jpg);
+    background-image: url(images/istockphoto-517899297-612x612.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
@@ -96,7 +96,7 @@ section {
 }
 
 .three {
-    background-image: url(istockphoto-677836344-612x612.jpg);
+    background-image: url(images/istockphoto-677836344-612x612.jpg);
     background-repeat: no-repeat;
     background-position: center;   
     background-size: cover; 
@@ -107,7 +107,7 @@ section {
 }
 
 .four {
-    background-image: url(istockphoto-1174864677-612x612.jpg);
+    background-image: url(images/istockphoto-1174864677-612x612.jpg);
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
@@ -118,7 +118,7 @@ section {
 }
 
 .five {
-    background-image: url(sneakersqqq.jpg);
+    background-image: url(images/sneakersqqq.jpg);
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
